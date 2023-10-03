@@ -1,5 +1,6 @@
 # adme_assignment
-#DEPLOYED LINK:-
+#DEPLOYED LINK:- https://stellar-genie-20c152.netlify.app/
+
 
 DESKTOP SCREEN 
 ![Screenshot (20)](https://github.com/Golugauraw1/adme_assignment/assets/112753675/ce71c243-fe9f-4ba3-bfb2-2638e8bc1df3)
